@@ -24,7 +24,7 @@ Clone the above repository to wherever you would like on your own device, using 
 
 **Open IntelliJ** and then Select **Open** and then navigate to the directory where you cloned the base code. Specifically make sure you open the directory that contains the **img**, **levels**, and **src** folders.
 
-With that, open up **src->PlayLevel** and then hit the **Play** button in the top right of the screen, this should start level 1-1 with a AI controller which you con find in **src->agents->EAController->Agent**
+With that, open up **src->PlayLevel** and then hit the **Play** button in the top right of the screen, this should start level 1-1 with an AI controller which you can find in **src->agents->EAController->Agent**
 
 The controls are:
 
