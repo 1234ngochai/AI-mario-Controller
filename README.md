@@ -1,6 +1,5 @@
-Welcome to the FIT3094 repository for Assignment 3. This is the base code for a Super Mario Bros simulator for which we will be implementing an evolutionary controller to play the game.
+This is the base code for a Super Mario Bros simulator for which we will be implementing an evolutionary controller to play the game.
 
-Read this document carefully as it contains information describing how to install the software, verify that it is working correctly, and how to get started with your implementation.
 
 # Getting Started #
 
