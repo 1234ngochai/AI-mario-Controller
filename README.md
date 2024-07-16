@@ -14,7 +14,7 @@ Once that’s done, head to https://www.jetbrains.com/idea/ and click Download t
 
 ### Clone This Base Code ###
 
-The base code for this assignment is a slightly modified version of https://github.com/amidos2006/Mario-AI-Framework
+The base code for this work is a slightly modified version of https://github.com/amidos2006/Mario-AI-Framework
 
 We will be storing this base code on the following repository: https://bitbucket.org/shortestpathlab/mario_ai_students/src/main/ so that in case there are any updates to the base code (which there shouldn’t be) it will be easy to roll them out.
 
@@ -24,7 +24,7 @@ Clone the above repository to wherever you would like on your own device, using 
 
 **Open IntelliJ** and then Select **Open** and then navigate to the directory where you cloned the base code. Specifically make sure you open the directory that contains the **img**, **levels**, and **src** folders.
 
-With that, open up **src->PlayLevel** and then hit the **Play** button in the top right of the screen, this should start level 1-1 with a human controller (you!)
+With that, open up **src->PlayLevel** and then hit the **Play** button in the top right of the screen, this should start level 1-1 with a AI controller which you con find in **src->agents->EAController->Agent**
 
 The controls are:
 
@@ -34,4 +34,4 @@ The controls are:
 - **Speed:** A
 - **Jump:** S
 
-Have some fun trying to beat 1-1, you’ll be dealing with this level a lot over the next few weeks!
+Have some fun watching the AI speedrunning the level!!
